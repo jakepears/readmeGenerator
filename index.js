@@ -26,6 +26,11 @@ const questions = [
 	},
 	{
 		type: 'input',
+		name: 'screenshot',
+		message: 'Please provide the path to a screenshot of your working app:',
+	},
+	{
+		type: 'input',
 		name: 'usage',
 		message: 'Please provide usage information:',
 	},

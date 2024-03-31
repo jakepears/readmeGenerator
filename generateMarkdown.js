@@ -66,6 +66,8 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   ## Installation
   ${data.installation}
+  ## Screenshot
+  ![Screenshot](${data.screenshot})
   ## Usage
   ${data.usage}
   ## License
@@ -74,12 +76,6 @@ function generateMarkdown(data) {
   ${data.contributing}
   ## Tests
   ${data.tests}
-  ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at ${
-		data.email
-	}. You can find more of my work at [${data.username}](https://github.com/${
-		data.username
-	}).
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at ${
 		data.email

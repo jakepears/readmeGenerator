@@ -1,16 +1,17 @@
 <!-- @format -->
 
-# readmeMaker
+# ReadMe Generator
 
-## LicenseMIT![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)https://opensource.org/licenses/MIT
+## LicenseMIT![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) https://opensource.org/licenses/MIT
 
 ## Description
 
-This project uses javascript and node.js to create a commandline tool that helps create a professional style readme.md
+This project uses javascript and node.js to create a command-line tool that helps create a professional style readme.md
 
 ## Table of Contents
 
 - [Installation](#installation)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
@@ -19,7 +20,11 @@ This project uses javascript and node.js to create a commandline tool that helps
 
 ## Installation
 
-clone the project, then run `node index.js`
+To install this project, follow these steps:
+
+- Clone the repository: git clone `https://github.com/jakepears/readmeGenerator`
+- Navigate to the project directory: `cd readmegenerator`
+- Install the dependencies: `npm install`
 
 ## Usage
 
@@ -29,18 +34,6 @@ This tool excels at helping users create a professional readme without the need 
 
 MIT
 
-## Contributing
-
-n/a
-
-## Tests
-
-n/a
-
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at jake.pearson.1694@gmail.com. You can find more of my work at [jakepears](https://github.com/jakepears).
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at jake.pearson.1694@gmail.com. You can find more of my work at [jakepears](https://github.com/jakepears).
+You can find more of my work at [jakepears](https://github.com/jakepears).
