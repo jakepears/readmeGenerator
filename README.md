@@ -33,7 +33,3 @@ This tool excels at helping users create a professional readme without the need 
 ## License
 
 MIT
-
-## Questions
-
-You can find more of my work at [jakepears](https://github.com/jakepears).
